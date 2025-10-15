@@ -40,3 +40,11 @@ Incident Communication
 ## Escalation Paths
 - Team-level -> PM -> Product Lead -> Sponsor
 - For security incidents, follow the security incident runbook and notify Security on-call
+
+### Escalation Role Clarity
+- **Developer/QA**: Raises technical issues, test failures, security vulnerabilities
+- **Scrum Master**: Escalates process impediments, team capacity concerns
+- **UX Designer**: Escalates design/usability conflicts, accessibility issues
+- **Business Analyst**: Escalates requirements gaps, data quality issues
+- **Project Manager**: Primary escalation coordinator for timeline, resource, and dependency issues
+- **Release Manager**: Escalates deployment risks, production incidents

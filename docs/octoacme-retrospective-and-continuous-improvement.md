@@ -14,6 +14,8 @@ After each sprint, release, or important milestone. Also after incidents.
 
 ## Running a Retrospective
 - Timebox: 45–75 minutes depending on team size
+- Facilitator: Scrum Master (if assigned) or Project Manager
+- Participants: All project team members (Developers, QA, UX Designer, Business Analyst, etc.)
 - Use an anonymous idea board if needed to encourage candor
 - Prioritize 2–3 top action items to avoid overload
 
