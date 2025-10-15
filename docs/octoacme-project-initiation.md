@@ -19,6 +19,21 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - Initial risk list
 - Resource needs (team roles, rough effort estimate)
 
+## Team Composition Considerations
+When identifying resource needs, consider which roles are needed for the project:
+- **Always Required**: Project Manager, Product Manager, Developers
+- **Commonly Required**: QA/Testing, Scrum Master (for Agile projects)
+- **As Needed**: 
+  - UX Designer (for customer-facing features or new user experiences)
+  - Release Manager (for complex or high-risk deployments)
+  - Business Analyst (for requirements-heavy or process-focused projects)
+  
+Clarify role boundaries early:
+- Who owns the backlog? (Product Manager)
+- Who coordinates delivery? (Project Manager)
+- Who facilitates team process? (Scrum Master, if assigned)
+- Who manages deployments? (Release Manager or designated developer)
+
 ## Project One-pager Template
 - Project name:
 - Problem statement:
